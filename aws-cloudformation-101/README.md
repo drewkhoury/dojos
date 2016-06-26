@@ -30,7 +30,7 @@ This repository contains a presentation to guide you through the training, plus 
 For the exercises to work you'll need a few basic supporting components (VPC, Subnet, Security Group). AWS provides these by default so you could skip the setup if you're only interested in completing the exercises yourself.
 
 ** Advanced (to run your own demos)**
-For advanced setup see [Setup](aws-cloudformation-101/src/setup)
+For advanced setup see [Setup](src/setup)
 
 # Exercises
 
