@@ -30,8 +30,8 @@ This repository contains a presentation to guide you through the training, plus 
 For the exercises to work you'll need a few basic supporting components (VPC, Subnet, Security Group). AWS provides these by default so you could skip the setup if you're only interested in completing the exercises yourself.
 
 ** Advanced (to run your own demos)**
-For advanced setup see [Setup](aws-cloudformation-101/src/setup/README.md)
+For advanced setup see [Setup](aws-cloudformation-101/src/setup)
 
 # Exercises
 
-The presentation is created in revealjs and intented to be run locally on your computer. Once you've cloned this repo, click [Presentation](aws-cloudformation-101/presentation/index.html) and follow along.
+The presentation is created in revealjs and intented to be run locally on your computer. Once you've cloned this repo, go to aws-cloudformation-101/presentation/index.html and follow along.
