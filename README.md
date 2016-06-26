@@ -3,7 +3,7 @@ The Odecee Dojo Project
 
 # dojos
 
-[AWS CloudFormation 101](aws-cloudformation-101/README.md)
+[AWS CloudFormation 101](aws-cloudformation-101)
 
 # Contributing
 
